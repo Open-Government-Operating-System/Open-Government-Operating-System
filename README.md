@@ -1,11 +1,10 @@
-# Open [Government](https://en.wikipedia.org/wiki/Government) Operating System
+# Open [Government](https://en.wikipedia.org/wiki/Government) [Operating System](https://en.wikipedia.org/wiki/Operating_system)
 
 ## Our Goal
 
 Here we do our best to create a generic operating system for the country's government from a programmer's perspective.
 
 ما در اینجا تمام تلاشمون رو می‌کنیم که با توجه به نگاه برنامه‌نویسی خودمون یک سیستم عامل برای اداره‌ی کشورها درست کنیم.
-
 
 ## چرا سیستم عامل؟
 
