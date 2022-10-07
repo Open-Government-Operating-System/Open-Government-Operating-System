@@ -1,4 +1,4 @@
-# Government-Operating-System
+# Open Government Operating System
 
 ## Our Goal
 
